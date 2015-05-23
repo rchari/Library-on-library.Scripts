@@ -1,2 +1,2 @@
-# sgRNAScorer
-Software package which allows a user to identify and score sgRNA sequences based on activity
+# Scripts used in the study by Chari et al, Nature Methods, 2015
+
