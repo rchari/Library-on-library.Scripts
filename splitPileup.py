@@ -1,3 +1,5 @@
+# Author: Raj Chari
+# Date: May 21st, 2015
 # script to take a pileup and split it into one file for each gene/target
 
 from __future__ import division
